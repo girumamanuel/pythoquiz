@@ -1,0 +1,48 @@
+1. What is a correct syntax to output "Hello World" in Python?
+  a print("Hello world");   c echo "Hello world
+ 
+  b echo("Hello world);     d p("Hello World);
+  
+2.How do you insert COMMENTS in Python code?
+
+ a // this is a comment    b /*this is a comment  c # this is a comment
+ 
+3. Which one is NOT a legal variable name?
+
+ a my-var  b  my_var  c  Myvar d 
+ 
+4. How do you create a variable with the numeric value 5?
+   Both  the other are correct 
+  a  x=int(5)
+  b  x=5
+ 
+5. What is the correct file extension for Python files?
+
+ a) .pt  b) .py c) .pyt  d) .pyth
+ 
+6.How do you create a variable with the floating number 2.8?
+
+  a) x= 2.8  b) Both tha other are correct  c)x= float(2.8)
+  
+7.What is the correct way to create a function in Python?
+
+ a) def myFunction  b)craete myFunction  c) function myfunction
+ 
+8. In Python, 'Hello', is the same as "Hello"
+
+ a) True     b) False 
+ 
+9. Which method can be used to remove any whitespace from both the beginning and the end of a string?
+
+ a) strip()  b) ptrim()   c)trim()  d) len()
+
+10. Which method can be used to return a string in upper case letters?
+
+ a) upper()  b) toUpperCase()  c) upperCase()  d) uppercase()
+
+ 
+  
+ 
+ 
+
+
